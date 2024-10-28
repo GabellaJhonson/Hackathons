@@ -7,3 +7,5 @@
 --
 [Lesta (2024)](https://github.com/glebgol/game-stream-hackathon)
 --
+[Белкарт (2024)](https://github.com/glebgol/belkart-hackathon)
+--
